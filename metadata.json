@@ -1,0 +1,5 @@
+{
+  "name": "Library Console Pro",
+  "description": "A professional-grade Library Management System with a clean, terminal-inspired console UI and a C++ inspired backend logic.",
+  "requestFramePermissions": []
+}
